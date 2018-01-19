@@ -6,7 +6,7 @@ based on [paulwoelfel/docker-gcloud](https://hub.docker.com/r/paulwoelfel/docker
 ## building
 
 ```
-docker build -t paulwoelfel/gcloud-datastore
+docker build -t paulwoelfel/gcloud-datastore .
 ```
 
 ## running
